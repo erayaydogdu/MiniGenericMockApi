@@ -1,4 +1,4 @@
-## MiniGenericMockApi
+## Mini Generic Mock Api
 
 Minimal API auto generates basic mock api based on json config file below:
 
