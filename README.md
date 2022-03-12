@@ -1,6 +1,6 @@
 ## Mini Generic Mock Api
 
-Minimal API auto generates basic mock api based on json config file below:
+Minimal API auto generates basic mock enpoints based on json config file below:
 
 ```json
 {
