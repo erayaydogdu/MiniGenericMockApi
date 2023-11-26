@@ -2,7 +2,7 @@
     "/": {
       "GET": {
         "id": 123,
-        "name": "Fake Name",
+        "websitename": "Fake Name",
         "isLocked": false,
         "created": "2022-01-04",
         "uniqueIdentifier": "13e6563a-5466-4d38-b727-1204e46c053bb"
@@ -22,6 +22,16 @@
           "id": 2,
           "name": "About",
           "slug": "/about"
+        }
+      ]
+    },
+    "/products/{id}": {
+      "GET": [
+        {
+          "id": 1,
+          "name": "Product 1",
+          "price": 100,
+          "stockQuantity": 25
         }
       ]
     }
